@@ -243,7 +243,7 @@ console.log(number >= 30);
 console.log("is 4+4 ===8 | predict true");
 console.log(4 + 4 === 8);
 
-console.log("is 4+4 !=8 | predict true");
+console.log("is 4+4 !=8 | predict false");
 console.log(4 + 4 != 8);
 
 let x = 5;
